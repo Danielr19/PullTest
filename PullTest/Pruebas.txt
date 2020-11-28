@@ -1,2 +1,6 @@
 Primer
+<<<<<<< HEAD
 Tercero
+=======
+Segundo
+>>>>>>> dd7fb2020ce85398eed018a18ab13dfa8b0e9501
